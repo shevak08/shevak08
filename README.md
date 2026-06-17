@@ -9,14 +9,14 @@
 
 ## 👨‍💻 About Me
 
-🎓 BCA Graduate from **The American College, Madurai** — CGPA **8.5**
-💼 Java Intern at **Cognifyz Technologies** — built and tested core Java programs
-🔭 Currently working on **E-Commerce System** using Spring Boot + MySQL
-🌱 Learning **React**, **MongoDB**, and **Cloud Deployment**
-🏆 **TCS NQT Cognitive Score: 55.42** (April 2026)
-💬 Ask me about **Java, Spring Boot, REST APIs, MySQL, HTML/CSS/JS**
-📫 Reach me at **shevakrv@gmail.com**
-⚡ Fun fact: I created a website for my friend's business.
+-🎓 BCA Graduate from **The American College, Madurai** — CGPA **8.5**
+-💼 Java Intern at **Cognifyz Technologies** — built and tested core Java programs
+-🔭 Currently working on **E-Commerce System** using Spring Boot + MySQL
+-🌱 Learning **React**, **MongoDB**, and **Cloud Deployment**
+-🏆 **TCS NQT Cognitive Score: 55.42** (April 2026)
+-💬 Ask me about **Java, Spring Boot, REST APIs, MySQL, HTML/CSS/JS**
+-📫 Reach me at **shevakrv@gmail.com**
+-⚡ Fun fact: I created a website for my friend's business.
 
 ---
 
@@ -93,11 +93,11 @@
 
 ## 🏆 Certifications
 
-🥇 **Java Full Stack** — Apex | Sys (6-Month Course)
-🎨 **UI/UX Design** — Novi Tech
-☁️ **AWS Cloud Computing** — The American College
-🤖 Tata — GenAI Powered Data Analytics Job Simulation
-📊 Data Classification and Summarization Using IBM Granite
+-🥇 **Java Full Stack** — Apex | Sys (6-Month Course)
+-🎨 **UI/UX Design** — Novi Tech
+-☁️ **AWS Cloud Computing** — The American College
+-🤖 Tata — GenAI Powered Data Analytics Job Simulation
+-📊 Data Classification and Summarization Using IBM Granite
 
 ---
 
