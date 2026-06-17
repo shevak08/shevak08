@@ -2,7 +2,7 @@
 <h3 align="center">Java Full Stack Developer | BCA Graduate | Madurai, Tamil Nadu</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+API+%7C+MySQL;HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=396A47&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+API+%7C+MySQL;HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
