@@ -16,7 +16,7 @@
 - 🏆 **TCS NQT Cognitive Score: 55.42** (April 2026)
 - 💬 Ask me about **Java, Spring Boot, REST APIs, MySQL, HTML/CSS/JS**
 - 📫 Reach me at **shevakrv@gmail.com**
-- ⚡ Fun fact: I turn voice into images — built a Speech Recognition to Image Generator!
+- ⚡ Fun fact: I created a website for my friend's business.
 
 ---
 
